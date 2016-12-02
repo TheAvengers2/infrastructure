@@ -1,0 +1,9 @@
+#Ignore java file
+*.class
+*.war
+
+.metadata
+.recommenders
+./RemoteSystemsTempFiles
+
+*/.settings/
