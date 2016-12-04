@@ -7,3 +7,15 @@
 ./RemoteSystemsTempFiles
 
 */.settings/
+
+
+#ignore build folder
+**/build/
+
+#ignore js dependencies
+*/node_modules/
+*/bower_components/
+
+#ignore compiled js
+**/app/*.js
+**/app/*.js.map
